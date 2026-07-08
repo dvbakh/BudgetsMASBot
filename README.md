@@ -1,4 +1,4 @@
-# PartnerAIBot — multi-agent budget collection
+# BudgetsMASBot — multi-agent budget collection
 
 A prototype for the coursework **"Development of multi-agent technologies in
 intelligent systems: Human-Computer Interaction"**.
